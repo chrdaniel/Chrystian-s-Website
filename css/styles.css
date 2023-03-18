@@ -1,0 +1,232 @@
+
+h1 {
+  line-height: 2;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4rem;
+  color: #141B41;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  color: #141B41;
+  font-weight: normal;
+  text-align: center;
+  margin: auto auto 5px;
+  }
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.65rem;
+  color: #141B41;
+  font-weight: normal;
+}
+
+h4 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.0rem;
+  color: #141B41;
+  font-weight: normal;
+  margin-top: 2px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 2;
+  color: #03001C;
+  text-align: justify;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  vertical-align: middle;
+  font-family: "Tinos", serif;
+  background-color: #F4FEFF;
+}
+
+div {
+  background-color: #F4FEFF ;
+  margin: 0 auto auto;
+
+}
+
+a {
+  color: #11999E;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#39E5EB;
+}
+
+td {
+  padding: 15px 8px;
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.perfil-container {
+  background-color: #E2FEFF;
+}
+
+.photo_presentation {
+  width: 50%;
+  vertical-align: middle;
+  margin: 100px auto 50px;
+  display: inline-block;
+  background-color: #E2FEFF;
+}
+
+.blocks_perfil-container {
+  width: 49%;
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #E2FEFF;
+}
+
+.hard-skills-block-1 {
+  width: 50% ;
+  margin: 70px auto 70px auto;
+  line-height: 1.5;
+}
+
+.hard-skills-blocks {
+  display: inline-block;
+  width: 49%;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.hard-skills-images {
+  width: 23%;
+}
+
+.title_subpages {
+  background-color: #E2FEFF ;
+  margin: 0 auto auto ;
+  padding: 60px 0 ;
+}
+
+.image_page_contruction {
+  width: 30%;
+}
+
+.soft-skills-container {
+  display: inline-block;
+  width: 50%;
+  align-items: center;
+  margin-bottom: 100px;
+  vertical-align: middle;
+}
+
+.soft-skills-blocks {
+  display: inline-block;
+  width: 49%;
+  vertical-align: middle;
+}
+
+
+
+.portfolio-block {
+  display: inline-block;
+  width: 50%;
+  align-items: center;
+  margin: 100px auto 100px auto;
+
+}
+
+.portfolio-projects {
+  width: 24%;
+  display: inline-block;
+  line-height: 1.5;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.portfolio-github-logo {
+  width: 20%;
+}
+
+.academic-work-experience {
+  display: inline-block;
+  width: 50%;
+  align-items: center;
+}
+
+.block-works {
+  width: 50%;
+  align-items: center;
+  display: inline-block;
+}
+
+.works {
+  width: 24%;
+  height: 50%;
+  align-items: center;
+  display: inline-block;
+  text-align: center;
+  margin: 100px auto 100px auto;
+}
+
+.COFICAB-logo {
+  height: 40px;
+}
+
+
+.content-contact-me {
+  display: inline-block;
+  width: 50%;
+  align-items: center;
+  margin: 20px auto 100px auto;
+}
+
+.btn {
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background-color:#27b8b8;
+	border-radius:8px;
+	border:1px solid #27b8b8;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Ubuntu', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:13px 24px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #27b8b8;
+}
+.btn:hover {
+	background-color:#1e9494;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.bottom-container {
+  background-color: #E2FEFF;
+  padding: 50px 0 30px;
+}
+
+.table_credits {
+  display: inline-block;
+  margin: 50px auto;
+}
+
+.under_construction_credits {
+  height: 128px;
+  width: 128px;
+}
+
+.copyright {
+  text-align: center;
+  color: #141B41;
+}
